@@ -2,7 +2,10 @@
 /shelf/
 /workspace.xml
 # Editor-based HTTP Client requests
+<<<<<<< HEAD
 /httpRequests/
+=======
+>>>>>>> 2312eb2 (Initial commit)
 # Datasource local storage ignored files
 /dataSources/
 /dataSources.local.xml

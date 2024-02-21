@@ -1,0 +1,7 @@
+{
+  "timestamp": "2024-02-09T11:11:27.456+0000",
+  "status": 415,
+  "error": "Unsupported Media Type",
+  "message": "Invalid mime type \"application/json {: \"id\": 3, \"name\": \"James\", \"lastName\": \"Brown\", \"age\": 28 }:\": Invalid token character ' ' in token \"json {: \"id\": 3, \"name\": \"James\", \"lastName\": \"Brown\", \"age\": 28 }:\"",
+  "path": "/api/users"
+}

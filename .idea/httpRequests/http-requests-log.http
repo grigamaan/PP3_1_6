@@ -1,0 +1,284 @@
+DELETE http://94.198.50.185:7081/api/users/3
+Connection: Keep-Alive
+User-Agent: Apache-HttpClient/4.5.14 (Java/17.0.8)
+Cookie: JSESSIONID=3418E7263A034181F0100B6CB651A7D1
+Accept-Encoding: br,deflate,gzip,x-gzip
+
+<> 2024-02-09T171009-2.200.txt
+
+###
+
+PUT http://94.198.50.185:7081/api/users
+Content-Type: application/json
+Content-Length: 70
+Connection: Keep-Alive
+User-Agent: Apache-HttpClient/4.5.14 (Java/17.0.8)
+Cookie: JSESSIONID=3418E7263A034181F0100B6CB651A7D1
+Accept-Encoding: br,deflate,gzip,x-gzip
+
+{
+  "id": 3,
+  "name": "Thomas",
+  "lastName": "Shelby",
+  "age": 28
+}
+
+<> 2024-02-09T171009-1.200.txt
+
+###
+
+POST http://94.198.50.185:7081/api/users
+Content-Type: application/json
+Content-Length: 80
+Connection: Keep-Alive
+User-Agent: Apache-HttpClient/4.5.14 (Java/17.0.8)
+Cookie: JSESSIONID=3418E7263A034181F0100B6CB651A7D1
+Accept-Encoding: br,deflate,gzip,x-gzip
+
+  {
+    "id": 3,
+    "name": "James",
+    "lastName": "Brown",
+    "age": 28
+  }
+
+<> 2024-02-09T171009.200.txt
+
+###
+
+GET http://94.198.50.185:7081/api/users
+Connection: Keep-Alive
+User-Agent: Apache-HttpClient/4.5.14 (Java/17.0.8)
+Cookie: JSESSIONID=4E1538F9EB176ABDB7F58B6870E91105
+Accept-Encoding: br,deflate,gzip,x-gzip
+
+<> 2024-02-09T171009.200.json
+
+###
+
+DELETE http://94.198.50.185:7081/api/users/3
+Connection: Keep-Alive
+User-Agent: Apache-HttpClient/4.5.14 (Java/17.0.8)
+Cookie: JSESSIONID=4E1538F9EB176ABDB7F58B6870E91105
+Accept-Encoding: br,deflate,gzip,x-gzip
+
+<> 2024-02-09T151810-2.200.txt
+
+###
+
+PUT http://94.198.50.185:7081/api/users
+Content-Type: application/json
+Content-Length: 70
+Connection: Keep-Alive
+User-Agent: Apache-HttpClient/4.5.14 (Java/17.0.8)
+Cookie: JSESSIONID=4E1538F9EB176ABDB7F58B6870E91105
+Accept-Encoding: br,deflate,gzip,x-gzip
+
+{
+  "id": 3,
+  "name": "Thomas",
+  "lastName": "Shelby",
+  "age": 28
+}
+
+<> 2024-02-09T151810-1.200.txt
+
+###
+
+POST http://94.198.50.185:7081/api/users
+Content-Type: application/json
+Content-Length: 80
+Connection: Keep-Alive
+User-Agent: Apache-HttpClient/4.5.14 (Java/17.0.8)
+Cookie: JSESSIONID=4E1538F9EB176ABDB7F58B6870E91105
+Accept-Encoding: br,deflate,gzip,x-gzip
+
+  {
+    "id": 3,
+    "name": "James",
+    "lastName": "Brown",
+    "age": 28
+  }
+
+<> 2024-02-09T151810.200.txt
+
+###
+
+GET http://94.198.50.185:7081/api/users
+Connection: Keep-Alive
+User-Agent: Apache-HttpClient/4.5.14 (Java/17.0.8)
+Cookie: JSESSIONID=1318D6DBFD054B3DDCBC79C478E4FA8C
+Accept-Encoding: br,deflate,gzip,x-gzip
+
+<> 2024-02-09T151809.200.json
+
+###
+
+DELETE http://94.198.50.185:7081/api/users
+Content-Type: application/json
+Content-Length: 13
+Connection: Keep-Alive
+User-Agent: Apache-HttpClient/4.5.14 (Java/17.0.8)
+Cookie: JSESSIONID=1318D6DBFD054B3DDCBC79C478E4FA8C
+Accept-Encoding: br,deflate,gzip,x-gzip
+
+{
+  "id": 3
+}
+
+<> 2024-02-09T151624.405.json
+
+###
+
+PUT http://94.198.50.185:7081/api/users
+Content-Type: application/json
+Content-Length: 70
+Connection: Keep-Alive
+User-Agent: Apache-HttpClient/4.5.14 (Java/17.0.8)
+Cookie: JSESSIONID=1318D6DBFD054B3DDCBC79C478E4FA8C
+Accept-Encoding: br,deflate,gzip,x-gzip
+
+{
+  "id": 3,
+  "name": "Thomas",
+  "lastName": "Shelby",
+  "age": 28
+}
+
+<> 2024-02-09T151624-1.200.txt
+
+###
+
+POST http://94.198.50.185:7081/api/users
+Content-Type: application/json
+Content-Length: 80
+Connection: Keep-Alive
+User-Agent: Apache-HttpClient/4.5.14 (Java/17.0.8)
+Cookie: JSESSIONID=1318D6DBFD054B3DDCBC79C478E4FA8C
+Accept-Encoding: br,deflate,gzip,x-gzip
+
+  {
+    "id": 3,
+    "name": "James",
+    "lastName": "Brown",
+    "age": 28
+  }
+
+<> 2024-02-09T151624.200.txt
+
+###
+
+GET http://94.198.50.185:7081/api/users
+Connection: Keep-Alive
+User-Agent: Apache-HttpClient/4.5.14 (Java/17.0.8)
+Cookie: JSESSIONID=DCD37F1133FA54169A75C457AD2C2B79
+Accept-Encoding: br,deflate,gzip,x-gzip
+
+<> 2024-02-09T151624.200.json
+
+###
+
+DELETE http://94.198.50.185:7081/api/users
+Content-Type: application/json
+Content-Length: 70
+Connection: Keep-Alive
+User-Agent: Apache-HttpClient/4.5.14 (Java/17.0.8)
+Cookie: JSESSIONID=DCD37F1133FA54169A75C457AD2C2B79
+Accept-Encoding: br,deflate,gzip,x-gzip
+
+{
+  "id": 3,
+  "name": "Thomas",
+  "lastName": "Shelby",
+  "age": 28
+}
+
+<> 2024-02-09T151508.405.json
+
+###
+
+PUT http://94.198.50.185:7081/api/users
+Content-Type: application/json
+Content-Length: 70
+Connection: Keep-Alive
+User-Agent: Apache-HttpClient/4.5.14 (Java/17.0.8)
+Cookie: JSESSIONID=DCD37F1133FA54169A75C457AD2C2B79
+Accept-Encoding: br,deflate,gzip,x-gzip
+
+{
+  "id": 3,
+  "name": "Thomas",
+  "lastName": "Shelby",
+  "age": 28
+}
+
+<> 2024-02-09T151508-1.200.txt
+
+###
+
+POST http://94.198.50.185:7081/api/users
+Content-Type: application/json
+Content-Length: 80
+Connection: Keep-Alive
+User-Agent: Apache-HttpClient/4.5.14 (Java/17.0.8)
+Cookie: JSESSIONID=DCD37F1133FA54169A75C457AD2C2B79
+Accept-Encoding: br,deflate,gzip,x-gzip
+
+  {
+    "id": 3,
+    "name": "James",
+    "lastName": "Brown",
+    "age": 28
+  }
+
+<> 2024-02-09T151508.200.txt
+
+###
+
+GET http://94.198.50.185:7081/api/users
+Connection: Keep-Alive
+User-Agent: Apache-HttpClient/4.5.14 (Java/17.0.8)
+Cookie: JSESSIONID=8792EECB2C547892CC74E84B1389090C
+Accept-Encoding: br,deflate,gzip,x-gzip
+
+<> 2024-02-09T151508.200.json
+
+###
+
+POST http://94.198.50.185:7081/api/users
+Content-Type: application/json
+  {:
+    "id": 3,
+    "name": "James",
+    "lastName": "Brown",
+    "age": 28
+  }:
+Content-Length: 0
+Connection: Keep-Alive
+User-Agent: Apache-HttpClient/4.5.14 (Java/17.0.8)
+Cookie: JSESSIONID=8792EECB2C547892CC74E84B1389090C
+Accept-Encoding: br,deflate,gzip,x-gzip
+
+<> 2024-02-09T151127.415.json
+
+###
+
+GET http://94.198.50.185:7081/api/users
+Connection: Keep-Alive
+User-Agent: Apache-HttpClient/4.5.14 (Java/17.0.8)
+Cookie: JSESSIONID=8FE9454686017CB48AC8212D9FE3F04B
+Accept-Encoding: br,deflate,gzip,x-gzip
+
+<> 2024-02-09T151127.200.json
+
+###
+
+GET http://94.198.50.185:7081/api/users
+Connection: Keep-Alive
+User-Agent: Apache-HttpClient/4.5.14 (Java/17.0.8)
+Accept-Encoding: br,deflate,gzip,x-gzip
+
+<> 2024-02-09T150004.200.json
+
+###
+
