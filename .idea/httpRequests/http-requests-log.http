@@ -1,6 +1,180 @@
 DELETE http://94.198.50.185:7081/api/users/3
 Connection: Keep-Alive
 User-Agent: Apache-HttpClient/4.5.14 (Java/17.0.8)
+Cookie: JSESSIONID=E7BB23E1857021AF8D9F02AAFE6E3035
+Accept-Encoding: br,deflate,gzip,x-gzip
+
+<> 2024-02-22T020610-2.200.txt
+
+###
+
+PUT http://94.198.50.185:7081/api/users
+Content-Type: application/json
+Content-Length: 70
+Connection: Keep-Alive
+User-Agent: Apache-HttpClient/4.5.14 (Java/17.0.8)
+Cookie: JSESSIONID=E7BB23E1857021AF8D9F02AAFE6E3035
+Accept-Encoding: br,deflate,gzip,x-gzip
+
+{
+  "id": 3,
+  "name": "Thomas",
+  "lastName": "Shelby",
+  "age": 28
+}
+
+<> 2024-02-22T020610-1.200.txt
+
+###
+
+POST http://94.198.50.185:7081/api/users
+Content-Type: application/json
+Content-Length: 80
+Connection: Keep-Alive
+User-Agent: Apache-HttpClient/4.5.14 (Java/17.0.8)
+Cookie: JSESSIONID=E7BB23E1857021AF8D9F02AAFE6E3035
+Accept-Encoding: br,deflate,gzip,x-gzip
+
+  {
+    "id": 3,
+    "name": "James",
+    "lastName": "Brown",
+    "age": 28
+  }
+
+<> 2024-02-22T020610.200.txt
+
+###
+
+GET http://94.198.50.185:7081/api/users
+Connection: Keep-Alive
+User-Agent: Apache-HttpClient/4.5.14 (Java/17.0.8)
+Cookie: JSESSIONID=58DAFB0F4FED40435F9D256B1AD27986
+Accept-Encoding: br,deflate,gzip,x-gzip
+
+<> 2024-02-22T020610.200.json
+
+###
+
+DELETE http://94.198.50.185:7081/api/users/3
+Connection: Keep-Alive
+User-Agent: Apache-HttpClient/4.5.14 (Java/17.0.8)
+Cookie: JSESSIONID=58DAFB0F4FED40435F9D256B1AD27986
+Accept-Encoding: br,deflate,gzip,x-gzip
+
+<> 2024-02-22T020532-2.200.txt
+
+###
+
+PUT http://94.198.50.185:7081/api/users
+Content-Type: application/json
+Content-Length: 70
+Connection: Keep-Alive
+User-Agent: Apache-HttpClient/4.5.14 (Java/17.0.8)
+Cookie: JSESSIONID=58DAFB0F4FED40435F9D256B1AD27986
+Accept-Encoding: br,deflate,gzip,x-gzip
+
+{
+  "id": 3,
+  "name": "Thomas",
+  "lastName": "Shelby",
+  "age": 28
+}
+
+<> 2024-02-22T020532-1.200.txt
+
+###
+
+POST http://94.198.50.185:7081/api/users
+Content-Type: application/json
+Content-Length: 80
+Connection: Keep-Alive
+User-Agent: Apache-HttpClient/4.5.14 (Java/17.0.8)
+Cookie: JSESSIONID=58DAFB0F4FED40435F9D256B1AD27986
+Accept-Encoding: br,deflate,gzip,x-gzip
+
+  {
+    "id": 3,
+    "name": "James",
+    "lastName": "Brown",
+    "age": 28
+  }
+
+<> 2024-02-22T020532.200.txt
+
+###
+
+GET http://94.198.50.185:7081/api/users
+Connection: Keep-Alive
+User-Agent: Apache-HttpClient/4.5.14 (Java/17.0.8)
+Cookie: JSESSIONID=24E8E59051DFA629B756A05D90B58A3D
+Accept-Encoding: br,deflate,gzip,x-gzip
+
+<> 2024-02-22T020532.200.json
+
+###
+
+DELETE http://94.198.50.185:7081/api/users/3
+Connection: Keep-Alive
+User-Agent: Apache-HttpClient/4.5.14 (Java/17.0.8)
+Cookie: JSESSIONID=24E8E59051DFA629B756A05D90B58A3D
+Accept-Encoding: br,deflate,gzip,x-gzip
+
+<> 2024-02-22T020331.200.txt
+
+###
+
+PUT http://94.198.50.185:7081/api/users
+Content-Type: application/json
+Content-Length: 70
+Connection: Keep-Alive
+User-Agent: Apache-HttpClient/4.5.14 (Java/17.0.8)
+Cookie: JSESSIONID=24E8E59051DFA629B756A05D90B58A3D
+Accept-Encoding: br,deflate,gzip,x-gzip
+
+{
+  "id": 3,
+  "name": "Thomas",
+  "lastName": "Shelby",
+  "age": 28
+}
+
+<> 2024-02-22T020330-1.200.txt
+
+###
+
+POST http://94.198.50.185:7081/api/users
+Content-Type: application/json
+Content-Length: 80
+Connection: Keep-Alive
+User-Agent: Apache-HttpClient/4.5.14 (Java/17.0.8)
+Cookie: JSESSIONID=24E8E59051DFA629B756A05D90B58A3D
+Accept-Encoding: br,deflate,gzip,x-gzip
+
+  {
+    "id": 3,
+    "name": "James",
+    "lastName": "Brown",
+    "age": 28
+  }
+
+<> 2024-02-22T020330.200.txt
+
+###
+
+GET http://94.198.50.185:7081/api/users
+Connection: Keep-Alive
+User-Agent: Apache-HttpClient/4.5.14 (Java/17.0.8)
+Cookie: JSESSIONID=3418E7263A034181F0100B6CB651A7D1
+Accept-Encoding: br,deflate,gzip,x-gzip
+
+<> 2024-02-22T020330.200.json
+
+###
+
+DELETE http://94.198.50.185:7081/api/users/3
+Connection: Keep-Alive
+User-Agent: Apache-HttpClient/4.5.14 (Java/17.0.8)
 Cookie: JSESSIONID=3418E7263A034181F0100B6CB651A7D1
 Accept-Encoding: br,deflate,gzip,x-gzip
 
